@@ -37,3 +37,36 @@ body {
 .header > h1 {
  color: white;
 }
+
+#Contacts{
+    background-color:#303841;
+    min-height: 80vh;
+}
+#Contacts h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20vh;
+    color: white;
+    font-size: 60px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 25px;
+}
+.icons{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 40%;
+    margin-left: 30%;
+}
+.icons a{
+color: white;
+font-size: 20px;
+}
